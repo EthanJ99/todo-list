@@ -1,5 +1,18 @@
 # To-Do List
+
+![Screenshot of To-do list web application.](image.png)
+
 A todo list web app build in React.
+
+Based on [Mozilla's "Getting Started With React" guide](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started).
+
+# Set Up
+Run these commands from root folder:
+
+```
+npm install
+npm run dev
+```
 
 ## Project Notes
 **User Stories**
